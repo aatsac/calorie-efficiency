@@ -55,16 +55,6 @@ pip install -r requirements.txt
 jupyter notebook calorie_efficiency_analysis.ipynb
 ```
 
-### `requirements.txt`
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
-```
-
 ---
 
 ## 📊 Dataset
