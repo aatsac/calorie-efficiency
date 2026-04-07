@@ -65,7 +65,17 @@ Abra o notebook no VS Code e selecione o kernel:
 5. exportação do dataset tratado
 6. análise exploratória
 
-Saída gerada:
+---
+
+## 📦 Dataset tratado
+
+O arquivo de saída `calorie_efficiency_tratado.csv` é gerado automaticamente ao final do notebook.
+
+> ⚠️ O CSV tratado **não foi versionado no repositório** porque ultrapassa o limite de tamanho permitido pelo GitHub (100 MB).
+
+Para reproduzir o resultado, basta executar o notebook até a etapa de exportação.
+
+Saída esperada:
 
 ```text
 calorie_efficiency_tratado.csv
@@ -76,7 +86,7 @@ calorie_efficiency_tratado.csv
 ## 🚀 Próximos passos
 
 * adicionar visualizações mais avançadas
-* comparar grupos/categorias
+* comparar grupos e categorias
 * transformar em pipeline modular Python
 * criar dashboard interativo
 
